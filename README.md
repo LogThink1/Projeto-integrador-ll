@@ -79,7 +79,8 @@ Sprint 3
 
 
 # *Tecnologias Utilizadas*
-![workshop git](https://github.com/LogThink1/logthink_documentacao/assets/144967585/76fdeda9-acca-4146-b791-228a66eb1d1a)
+![TecUt](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/02bc57ea-5399-4432-a275-43a7028f0f32)
+
 
 
  # Burndown
