@@ -84,14 +84,12 @@ Sprint 3
 
  # Burndown
 # Sprint 01
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)
 
 # Sprint 02
- ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)
 
 # Sprint 03
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)
 
+# Sprintm 04
 
 # *Departamentalização*
 
