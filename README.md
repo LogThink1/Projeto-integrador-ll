@@ -41,18 +41,17 @@ Sprint | Previsão | Status| Histórico|
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   FERNANDA ANDRADE         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-andrade-a130b1212) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fer159)              |
-| Scrum Master  | MIRYHAN GAUTO |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miryhan-caetano) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MiryhanCG)     |
-| Developer   | CÍCERO BORGES              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%ADcero-borges-04953a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CiceroAborges)        |
+| Product Owner |   GABRIEL ROSA         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-andrade-a130b1212) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fer159)              |
+| Scrum Master  | PEDRO HENRIQUE |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miryhan-caetano) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MiryhanCG)     |
+| Developer   | MARIANA CASSIA              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%ADcero-borges-04953a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CiceroAborges)        |
 |  Developer   | DANIELE DE JESUS SOUZA                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/daniele-de-jesus-souza-35859a209?trk=people-guest_people_search-card) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/danielejesus)        |
-|  Developer   | GABRIEL ROSA                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rosa-e-silva-1b1079222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Developer   | GUSTAVO NOVAKOSKI       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNovakoski)  
-|  Developer   | MATHEUS REIS       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-reis-82b571161) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheus2208) 
-|  Developer   | VINÍCIUS RODOLFO      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-rodolfo) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusRSS) 
+|  Developer   | FÁBIA MARA                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rosa-e-silva-1b1079222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
+|  Developer   | ANDRÉ RIBEIRO       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNovakoski)  
+|  Developer   | DENISE OLIVEIRA       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-reis-82b571161) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheus2208) 
+
 
 
 # *Equipe*
-![EQUIPE LOGTHINK](https://github.com/LogThink1/logthink_documentacao/assets/144967585/c3acd1b8-da66-48cd-ae0d-e59a49ff97a2)
 
 
 # Objetivo do Projeto
@@ -95,7 +94,6 @@ Sprint 3
 
 
 # *Departamentalização*
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f1062fc8-4c1d-4de7-97e2-2d6d91c854e8)
 
 
 
@@ -106,6 +104,7 @@ Sprint 3
 - [Canva](https://www.canva.com/pt_br/)
 - [GitHub](https://github.com/)
 - [Jira](https://id.atlassian.com/)
+- [Slack](https://slack.com/intl/pt-br)
   
 # Backlog do produto
   
