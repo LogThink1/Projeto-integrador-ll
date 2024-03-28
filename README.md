@@ -109,15 +109,9 @@ Sprint 3
   
 <div align="center">
     
-![épicos](https://github.com/LogThink1/logthink_documentacao/assets/144967585/5255c57e-044b-4221-8e4f-aee1e3f62dda)
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)
+
 
 # *Dashboard*
-
-https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9
-
-# *Dashboard - Retirados*
-![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)
 
 
 
