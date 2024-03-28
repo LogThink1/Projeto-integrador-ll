@@ -91,7 +91,7 @@ Sprint 3
 
 # Sprint 03
 
-# Sprintm 04
+# Sprint 04
 
 # *Departamentalização*
 
