@@ -1,5 +1,3 @@
-<div align="center">
- 
 # Documentação LoadLogic
 ![Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/cc6b9e96-6880-4ae2-a3cc-7b335e90a78a)
 
