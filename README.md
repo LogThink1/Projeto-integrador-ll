@@ -1,4 +1,3 @@
-# Documentação LoadLogic
 ![Logo Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c9edb83-366c-449e-a040-32a1dbb3c058)
 
 
