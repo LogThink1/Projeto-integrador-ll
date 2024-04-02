@@ -1,5 +1,5 @@
 # Documentação LoadLogic
-![Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/cc6b9e96-6880-4ae2-a3cc-7b335e90a78a)
+![Logo Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c9edb83-366c-449e-a040-32a1dbb3c058)
 
 
 # *Aprendizado por Projeto Integrador (API) - LoadLogic*
