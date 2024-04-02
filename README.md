@@ -1,4 +1,6 @@
 # Documentação LoadLogic
+![Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/cc6b9e96-6880-4ae2-a3cc-7b335e90a78a)
+
 
 # *Aprendizado por Projeto Integrador (API) - LoadLogic*
 
@@ -52,7 +54,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 # *Equipe*
-![Grupo LogThink](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a247dcc2-353f-4072-9517-769362029bd2)
+![LoadLogic](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/86f5d320-a45a-4198-8a1a-eb15a2e2438f)
+
 
 
 # Objetivo do Projeto
