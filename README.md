@@ -82,7 +82,7 @@ Sprint 3
 
 
 # *Tecnologias Utilizadas*
-![TecUt](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/02bc57ea-5399-4432-a275-43a7028f0f32)
+![Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/7af321c2-e89f-415e-97be-e743bc13e781)
 
 
 
