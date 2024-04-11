@@ -69,8 +69,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
 # *5W2H*
-Sprint 1
-
 
 
 
