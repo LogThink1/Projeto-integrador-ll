@@ -70,13 +70,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # *5W2H*
 Sprint 1
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13193717/5W2H.xlsx)
-
-Sprint 2
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13232863/5W2H.xlsx)
-
-Sprint 3
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13462343/5W2H.xlsx)
 
 
 
@@ -96,6 +89,7 @@ Sprint 3
 # Sprint 04
 
 # *Departamentalização*
+![departamentalização](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/acd3c18b-4db1-4c58-a388-fd16b25591a0)
 
 
 
@@ -109,6 +103,8 @@ Sprint 3
 - [Slack](https://slack.com/intl/pt-br)
   
 # Backlog do produto
+![backlog](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/9ce115e2-42ca-4bbc-9ac5-8b355b6ebb64)
+
   
 <div align="center">
     
