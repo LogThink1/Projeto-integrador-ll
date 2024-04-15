@@ -68,10 +68,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 ![MicrosoftTeams-image (1)](https://github.com/LogThink1/logthink_documentacao/assets/144967585/50e54821-be43-4437-ab7c-cc0cf658add6)
 
 
-# *5W2H*
-
-
-
 # *Tecnologias Utilizadas*
 ![Load (2)](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d93357ce-ee6a-41fa-a584-1d060a6f787f)
 
