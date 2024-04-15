@@ -77,14 +77,9 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
 
- # Burndown
 # Sprint 01
+[documentação sprint 1.docx](https://github.com/LogThink1/Projeto-integrador-ll/files/14984795/documentacao.sprint.1.docx)
 
-# Sprint 02
-
-# Sprint 03
-
-# Sprint 04
 
 # *Departamentalização*
 ![departamentalização](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/acd3c18b-4db1-4c58-a388-fd16b25591a0)
@@ -124,30 +119,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 - [x] Workshop PowerBI;
 - [x] 5W2H.
       
-## Sprint 2. Concepção
-- [x] Relatório - Formatação;
-- [x] 5W2H;
-- [x] Atualizar Documentação - Sprint 1;
-- [x] Atualizar Documentação - Sprint 2;
-- [x] Organizar próxima apreentação;
-- [x] Dar forma ao produto;
-- [x] Explicar ao cliente a questão de cargas com peso zero;
-- [x] Adaptar filtros à necessidade do cliente;
-- [x] Avaliar indicadores das melhores áreas;
-- [x] Atualizar design do dashboard;
-- [x] Pesquisar sobre as potenciais cargas do porto;
-- [x] Elaborar próximo E-mail.
-
-## Sprint 3. Concepção
-- [x] Colocar valor-peso em R$/Kg;
-- [x] Diminuir a seleção de cidades;
-- [x] Análise de SWOT;
-- [x] Departamentalização;
-- [x] Histórico de movimentação de cargas;
-- [x] 5W2H - Sprint 3
-- [x] Relatório - Sprint 3;
-- [x] Criar estimativas;
-- [x] Retirada das cargas de peso 0.
 
 
 # Competências desenvolvidas
