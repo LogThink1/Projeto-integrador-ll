@@ -106,14 +106,11 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 ## Sprint 1. Concepção
 - [x] Análise de planilhas/dados;
 - [x] Cruzar dados;
-- [x] Calcular quociente valor-peso;
-- [x] Escolha cores e fontes;
 - [x] Criação de identidade visual;
-- [x] Rascunho Dashboard;
 - [x] Workshop Jira;
 - [x] Workshop GitHub;
-- [x] Workshop PowerBI;
-- [x] 5W2H.
+- [x] Análise de SWOT;
+- [x] Desenvolvimento da departamentalização.
       
 
 
