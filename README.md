@@ -1,7 +1,7 @@
 ![Logo Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c9edb83-366c-449e-a040-32a1dbb3c058)
 
 
-# *Aprendizado por Projeto Integrador (API) - LoadLogic*
+# *Aprendizado por Projeto Integrador (API) - RoutX*
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
