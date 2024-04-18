@@ -81,7 +81,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
 # Sprint 01
-[documentação sprint 1.docx](https://github.com/LogThink1/Projeto-integrador-ll/files/14984795/documentacao.sprint.1.docx)
+
 
 
 # *Departamentalização*
