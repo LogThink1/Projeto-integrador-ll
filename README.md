@@ -99,7 +99,7 @@ _CONCLUÍDO_
 
 >Sprint 2
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/694dbf56-67aa-46d4-9978-abf3c9689c63) width="20" "Filtrar códigos NCM"
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/e614fc00-0492-4619-b84d-0f070b9fd770)   Filtrar códigos NCM
 
 
 >Sprint 3
