@@ -70,6 +70,14 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 # *Tecnologias Utilizadas*
 ![Load (2)](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d93357ce-ee6a-41fa-a584-1d060a6f787f)
 
+ ### Tecnologias Específicas de Apoio
+- [Power BI](https://app.powerbi.com/)
+- [Pacote Office](https://www.microsoft.com/)
+- [Teams](https://teams.microsoft.com/)
+- [Canva](https://www.canva.com/pt_br/)
+- [GitHub](https://github.com/)
+- [Jira](https://id.atlassian.com/)
+- [Slack](https://slack.com/intl/pt-br)
 
 
 # Sprint 01
@@ -80,16 +88,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 ![departamentalização](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/acd3c18b-4db1-4c58-a388-fd16b25591a0)
 
 
-
- ### Tecnologias Específicas de Apoio
-- [Power BI](https://app.powerbi.com/)
-- [Pacote Office](https://www.microsoft.com/)
-- [Teams](https://teams.microsoft.com/)
-- [Canva](https://www.canva.com/pt_br/)
-- [GitHub](https://github.com/)
-- [Jira](https://id.atlassian.com/)
-- [Slack](https://slack.com/intl/pt-br)
-  
 # Backlog do produto
 ![backlog](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/9ce115e2-42ca-4bbc-9ac5-8b355b6ebb64)
 
