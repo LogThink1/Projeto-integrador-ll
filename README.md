@@ -123,7 +123,29 @@ _CONCLUÍDO_
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)   Filtrar códigos NCM
 
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  WorkShop - NCM
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Aprimorar 5W2H
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualizar Documentação
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Iniciar Protótipo da Dashboard
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  WorkShop - Power BI
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a1283fa0-0bc4-4bb0-a87e-aaed5fc37e50)  Desenvolver pesquisa sobre a Suavização Exponêncial
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Integrar Excel no Power BI
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Acrescentar atualização no GitHub
+
+
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a1283fa0-0bc4-4bb0-a87e-aaed5fc37e50)  Desenvolver pesquisa sobre a suavização exponêncial
+
+
+
+
+
 
 >Sprint 3
 
