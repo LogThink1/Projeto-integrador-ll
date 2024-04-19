@@ -57,6 +57,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
+
 Missão: Fornecer dados de altíssima precisão aos nossos clientes parceiros na área de consultoria logística, permitindo uma visão analítica abrangente para impulsionar seus negócios.
 
 Visão: Ser reconhecidos nacional e internacionalmente como líderes em consultoria logística, oferecendo serviços ágeis e de excelência.
