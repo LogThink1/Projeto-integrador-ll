@@ -179,14 +179,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-## Sprint 1. Concepção
-- [x] Análise de planilhas/dados;
-- [x] Cruzar dados;
-- [x] Criação de identidade visual;
-- [x] Workshop Jira;
-- [x] Workshop GitHub;
-- [x] Análise de SWOT;
-- [x] Desenvolvimento da departamentalização.
+
       
 
 
