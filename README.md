@@ -20,7 +20,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Sprints](#Sprint-1-Concepção)
 * [Gráfico de Burndown](#Burndown)
 * [SWOT](#Análise-SWOT-da-Empresa)
-* [Departamentalização](#Departamentalização)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
 # Projeto (API) 
