@@ -84,7 +84,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 ## Sprint 1
 
-**_CONCLUÍDO_*
+**_CONCLUÍDO_**
 
 _CONCLUÍDO_
 
