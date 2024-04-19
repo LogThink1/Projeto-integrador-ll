@@ -80,17 +80,9 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 - [Slack](https://slack.com/intl/pt-br)
 
 
-# Sprint 01
-
-
-
-# *Departamentalização*
-![departamentalização](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/acd3c18b-4db1-4c58-a388-fd16b25591a0)
-
-
 # Backlog do produto
 
-##Sprint 1
+## Sprint 1
 
 _CONCLUÍDO_
 
@@ -119,7 +111,7 @@ _CONCLUÍDO_
 
 
 
-##Sprint 2
+## Sprint 2
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)   Filtrar códigos NCM
 
