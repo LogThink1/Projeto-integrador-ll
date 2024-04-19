@@ -100,13 +100,30 @@ _CONCLUÍDO_
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Desenvolver o Backlog do Produto 
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a1283fa0-0bc4-4bb0-a87e-aaed5fc37e50)  Desenvolver pesquisa sobre a suavização exponêncial
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Gestão de Equipe - Atribuição de Tarefas
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Estruturar Corpo do GitHub
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  WorkShop - Dados do Excel
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a1283fa0-0bc4-4bb0-a87e-aaed5fc37e50)  Ajustar as Fórmulas Aplicadas na Planilha.
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Desenvolver 5W2H
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5) Desenvolver Análise SWOT
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5) Realização da Classificação das Mercadorias Através do SH
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  WorkShop - Jira SoftWare
+
+
 
 
 >Sprint 2
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)   Filtrar códigos NCM
 
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a1283fa0-0bc4-4bb0-a87e-aaed5fc37e50)  Desenvolver pesquisa sobre a suavização exponêncial
 
 >Sprint 3
 
