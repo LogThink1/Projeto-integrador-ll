@@ -86,7 +86,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 **_CONCLUÍDO_**
 
-_CONCLUÍDO_
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Desenvolver os dados da planilha/relação
 
@@ -134,20 +133,35 @@ _CONCLUÍDO_
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Acrescentar atualização no GitHub
 
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/a1283fa0-0bc4-4bb0-a87e-aaed5fc37e50)  Desenvolver pesquisa sobre a suavização exponêncial
-
-
-
-
 
 
 >Sprint 3
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/51c85693-2d80-4c14-a486-04773494505a)
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualizar Documentação
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Aprimorar o 5W2H
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Aprimorar a DashBoard
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Aplicação de Suavização Exponêncial
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualizar GitHub
+
+
 
 >Sprint 4
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/935f25c1-b8b4-4a41-b64d-2c4e99989432)
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5) Finalizar Doc
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5) FInalizar GitHub
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Finalizar Dashboard
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Conclusão Suavização Exponêncial
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Entregar Produto
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Finalizar 5W2H
 
 
 
