@@ -58,11 +58,11 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-Missão: Fornecer dados de altíssima precisão aos nossos clientes parceiros na área de consultoria logística, permitindo uma visão analítica abrangente para impulsionar seus negócios.
+**Missão:* Fornecer dados de altíssima precisão aos nossos clientes parceiros na área de consultoria logística, permitindo uma visão analítica abrangente para impulsionar seus negócios.
 
-Visão: Ser reconhecidos nacional e internacionalmente como líderes em consultoria logística, oferecendo serviços ágeis e de excelência.
+**Visão:* Ser reconhecidos nacional e internacionalmente como líderes em consultoria logística, oferecendo serviços ágeis e de excelência.
 
-Valores: Compromisso inabalável com padrões éticos elevados em todas as nossas operações. Assumir responsabilidade por nossas ações e impactos, buscando constantemente melhorias.
+**Valores:* Compromisso inabalável com padrões éticos elevados em todas as nossas operações. Assumir responsabilidade por nossas ações e impactos, buscando constantemente melhorias.
 
 # *Análise SWOT da Empresa*
 ![MicrosoftTeams-image (1)](https://github.com/LogThink1/logthink_documentacao/assets/144967585/50e54821-be43-4437-ab7c-cc0cf658add6)
