@@ -82,9 +82,9 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # Backlog do produto
 
-## Sprint 1
+## Sprint 1                                                                                                                                                                            ## Sprint 2
 
-**_CONCLUÍDO_**
+**_CONCLUÍDO_**                                                                                                                                                                        **_EM ANDAMENTO_**
 
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Desenvolver os dados da planilha/relação
