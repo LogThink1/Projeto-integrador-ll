@@ -96,7 +96,7 @@ _CONCLUÍDO_
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5) Desenvolver os dados da planilha
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4314c8db-0410-4d8f-84fa-65b1c6f70e3f)  Desenvolver pesquisa sobre a suavização exponêncial
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d75d352f-0a02-4022-b087-87be81d55fb9)  Desenvolver pesquisa sobre a suavização exponêncial
 
 
 >Sprint 2
