@@ -65,7 +65,9 @@ Sprint | Previsão | Status| Histórico|
 **Valores:** Compromisso inabalável com padrões éticos elevados em todas as nossas operações. Assumir responsabilidade por nossas ações e impactos, buscando constantemente melhorias.
 
 # *Análise SWOT da Empresa*
-![MicrosoftTeams-image (1)](https://github.com/LogThink1/logthink_documentacao/assets/144967585/50e54821-be43-4437-ab7c-cc0cf658add6)
+
+![MicrosoftTeams-image (1)](![ánalise Swot](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/c0ace8d1-362d-4495-a448-092df3987698)
+
 
 
 # *Tecnologias Utilizadas*
