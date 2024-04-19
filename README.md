@@ -66,7 +66,8 @@ Sprint | Previsão | Status| Histórico|
 
 # *Análise SWOT da Empresa*
 
-![MicrosoftTeams-image (1)](![ánalise Swot](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/c0ace8d1-362d-4495-a448-092df3987698)
+![MicrosoftTeams-image (1)](![ánalise Swot](![ánalise Swot](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/8a6c709a-1198-4378-b432-7728f69d76fa)
+
 
 
 
