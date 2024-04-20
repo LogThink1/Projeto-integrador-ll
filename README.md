@@ -51,7 +51,9 @@ Sprint | Previsão | Status| Histórico|
 
 
 # *Equipe*
-![LoadLogic](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/86f5d320-a45a-4198-8a1a-eb15a2e2438f)
+
+[Load.pdf](https://github.com/LogThink1/Projeto-integrador-ll/files/15046449/Load.pdf)
+
 
 
 
