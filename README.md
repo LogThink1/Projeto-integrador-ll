@@ -1,5 +1,5 @@
-![Logo Load](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c9edb83-366c-449e-a040-32a1dbb3c058)
 
+![rOUT (1)](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/5ebfafc0-dbe6-498e-a362-82bc2cfea42b)
 
 # *Aprendizado por Projeto Integrador (API) - RoutX*
 
