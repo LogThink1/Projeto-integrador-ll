@@ -141,7 +141,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Acrescentar atualização no GitHub
 
-
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5) Metodologia Scrum
 
 
 ## Sprint 3
