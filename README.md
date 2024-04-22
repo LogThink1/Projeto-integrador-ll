@@ -72,7 +72,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 # *Tecnologias Utilizadas*
-![Design sem nome](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c0a717e-cbdb-406e-8363-5ee6bbb32c0a)
+
+![Design sem nome (1)](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/8b38c2d4-dd7b-40e1-96ae-22e1078574a4)
 
 
  ### Tecnologias Específicas de Apoio
