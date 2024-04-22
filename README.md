@@ -79,7 +79,6 @@ Sprint | Previsão | Status| Histórico|
 - [Power BI](https://app.powerbi.com/)
 - [Pacote Office](https://www.microsoft.com/)
 - [Teams](https://teams.microsoft.com/)
-- [Canva](https://www.canva.com/pt_br/)
 - [GitHub](https://github.com/)
 - [Jira](https://id.atlassian.com/)
 - [Slack](https://slack.com/intl/pt-br)
