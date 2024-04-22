@@ -52,8 +52,7 @@ Sprint | Previsão | Status| Histórico|
 
 # *Equipe*
 
-![Design sem nome](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/85b8b274-497c-4586-86bd-2fc607b47894)
-
+![Design sem nome](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c0a717e-cbdb-406e-8363-5ee6bbb32c0a)
 
 
 
@@ -74,7 +73,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 # *Tecnologias Utilizadas*
-![Load (2)](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d93357ce-ee6a-41fa-a584-1d060a6f787f)
+![Design sem nome](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/4c0a717e-cbdb-406e-8363-5ee6bbb32c0a)
+
 
  ### Tecnologias Específicas de Apoio
 - [Power BI](https://app.powerbi.com/)
