@@ -52,7 +52,7 @@ Sprint | Previsão | Status| Histórico|
 
 # *Equipe*
 
-![FÁBIA MARA](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/ee2b62c7-6759-4034-a8e3-ea3cdfa4b006)
+![FÁBIA MARA](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d183d542-4282-49f2-ac29-5c32d28cb50e)
 
 
 
