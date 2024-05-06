@@ -19,9 +19,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [TEA](#tecnologias-específicas-de-apoio)
 * [Backlog do produto](#Backlog-do-produto)
-* [Dashboard](#Dashboard)
 * [Sprints](#Sprint-1-Concepção)
-* [Gráfico de Burndown](#Burndown)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
 # Projeto (API) 
