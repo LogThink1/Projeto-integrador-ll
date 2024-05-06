@@ -18,6 +18,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [SWOT](#Análise-SWOT-da-Empresa)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [TEA](#tecnologias-específicas-de-apoio)
+* [Dashboard](#Dashboard)
 * [Backlog do produto](#Backlog-do-produto)
 * [Sprints](#Sprint-1-Concepção)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
@@ -83,6 +84,9 @@ Sprint | Previsão | Status| Histórico|
 - [GitHub](https://github.com/)
 - [Jira](https://id.atlassian.com/)
 - [Slack](https://slack.com/intl/pt-br)
+
+# *Dashboard*
+![Dash](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/ca661eb0-2a36-4d27-b964-c5f2b4b54bdc)
 
 
 # Backlog do produto
