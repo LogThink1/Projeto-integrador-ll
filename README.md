@@ -181,13 +181,6 @@ Sprint | Previsão | Status| Histórico|
     
 
 
-# *Dashboard*
-
-
-
-
-      
-
 
 # Competências desenvolvidas
 
