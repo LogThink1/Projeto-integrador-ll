@@ -128,7 +128,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 2
 
-**_EM ANDAMENTO_**
+**_CONCLUÍDO_**
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)   Filtrar códigos NCM
 
