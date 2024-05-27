@@ -87,7 +87,7 @@ Sprint | Previsão | Status| Histórico|
 - [Slack](https://slack.com/intl/pt-br)
 
 # *Dashboard*
-![Dash](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/ca661eb0-2a36-4d27-b964-c5f2b4b54bdc)
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/fa3acff7-6a6e-44fb-aaec-9e1792821ec5)
 
 
 # *Burndown*
