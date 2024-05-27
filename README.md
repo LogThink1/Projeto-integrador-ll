@@ -94,7 +94,7 @@ Sprint | Previsão | Status| Histórico|
 # *Sprint 1*
 ![Burdown](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/ee389b54-d741-4a0e-a4f0-8ac8b311fa87)
 
-# *Sprint 2
+# *Sprint 2*
 ![WhatsApp Image 2024-05-27 at 19 58 13](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/883bf1ef-637c-469b-8ca3-461d116db831)
 
 
