@@ -36,7 +36,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 15/04/2024 | Concluído | [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171960/RELATORIO.SPRINT.01.pdf) | 
 |02|  06/05/2024| Concluído |[Ver Relatório](https://github.com/LogThink1/Projeto-integrador-ll/files/15227295/Documentacao.API.-.Atualizada.-.Sprint.2.docx)| 
 |03| 27/05/2024 | Concluído |[Ver Relatório](https://github.com/LogThink1/Projeto-integrador-ll/files/15462272/Documentacao.API.-.Sprint.3.pdf)| 
-|04| 17/06/2024 | Pendente |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13462436/RELATORIO.SPRINT.03.pdf)| 
+|04| 17/06/2024 | Concluído |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13462436/RELATORIO.SPRINT.03.pdf)| 
 |Feira de Soluções|27/06/2024 | Pendente |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Autores
@@ -87,7 +87,8 @@ Sprint | Previsão | Status| Histórico|
 - [Slack](https://slack.com/intl/pt-br)
 
 # *Dashboard*
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/fa3acff7-6a6e-44fb-aaec-9e1792821ec5)
+![WhatsApp Image 2024-06-17 at 20 15 50](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/bc1611d2-f292-4436-9fff-c513d09777ae)
+
 
 
 # *Burndown*
